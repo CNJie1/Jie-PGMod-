@@ -1,0 +1,39 @@
+#menubox { 
+
+    width: 315px;
+    height: 430px;
+    margin: 150;
+    position: absolute;
+    z-index: 10;
+    background-color: #ff0000;  /* 背景颜色 */
+    text-align: center;
+    border: 30px  #ff0000;
+    cursor: default;
+    border-radius: 6px;
+    overflow-y: auto;
+  }
+  
+  .button {
+        display: inline-block;
+        padding: 8px 3px;
+        background-color: rgb(0, 0, 0);
+        color: rgb(0, 0, 0);
+        border:rgb(0, 0, 0);
+        border-radius: 0px;
+        cursor: move;
+         margin: 4x;  /* 添加此选项以在按钮之间创建间隙 */
+      }
+  #menuview {
+  
+  padding: 20x;
+  cursor: pointer;
+  z-index: 10;
+  border: 5px  #ffffff;
+  background-color: #C3BDBB;
+  color: rgb(0, 0, 0);
+  }
+
+  label {
+    color: rgb(255, 255, 255);
+    font-family: 'Lato', Lato;  /* 功能字体颜色 */
+  }
