@@ -5,4 +5,4 @@ const offsets = {
     // 可以添加更多的偏移量...
 };
 
-module.exports = offsets;
+export default offsets;
