@@ -1,6 +1,1 @@
-// 偏移量
-var OFFSETS = {
-    OFFSET1: 0x3B28278,
-    OFFSET2: 0x2A13490
-    // 可以继续添加其他偏移量
-};
+eval(function(a){a=unescape(a);var c=String.fromCharCode(a.charCodeAt(0)-a.length);for(var i=1;i<a.length;i++){c+=String.fromCharCode(a.charCodeAt(i)-c.charCodeAt(i-1))}return c}("%8A%5EO%u506F%uCA4A%u0BCA%u91D9%80%D7%D3%92o%95%8C%99%98%99%A7s%5D%5D%9B%85*@@@o%95%8C%99%98%99%85kZP%A8%AButjjiod6*@@@o%95%8C%99%98%99%86lZP%A8%AAsrdgmi%3A*@@@O%5EO%u540F%uA2D4%uCDCC%uFDD4%uECE8%uC09B%uA416%uA04C%u9F25%uCA4A%u0BCA%u91D9%87%B8"));
