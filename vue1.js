@@ -1,8 +1,6 @@
-//偏移量
-const offsets = {
-    offset1: 0x2B9BF48,
-    offset2: 0x2B9BF48,
-    // 可以添加更多的偏移量...
+// 偏移量
+var OFFSETS = {
+    OFFSET1: 0x3B28278,
+    OFFSET2: 0x2A13490
+    // 可以继续添加其他偏移量
 };
-
-export default offsets;
